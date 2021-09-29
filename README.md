@@ -6,7 +6,7 @@
   - :bulb: [Medium articles](https://medium.com/@tharun_01)
   - :office: [LinkedIn](https://www.linkedin.com/in/tharun-addanki-163417175/)
 
-[![thaurnnani's github stats](https://github-readme-stats.vercel.app/api?username=Tharunnani&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![thaurnnani's github stats](https://github-readme-stats.vercel.app/api?username=Tharunkumar01&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Tharunkumar01/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunnani)](https://github.com/Tharunnani/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunkumar01)](https://github.com/Tharunkumar01/github-readme-stats) -->
