@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tharunaddanki222@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1A997lHDASmrc-hF3BZtntpye0k3EwRA7/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KHD7ETzxw4IuFWj3N8KjKlJFi3HGvnZn/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
